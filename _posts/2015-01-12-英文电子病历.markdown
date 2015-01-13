@@ -7,7 +7,7 @@ test a equation:
     $$x^2+y^2=1$$
 
 <h2>{{ page.title }}</h2>
-##This is a test.
+##This is a test.##
 <p>NER</p>
 <p>{{ page.date | date_to_string}}</p>
 
