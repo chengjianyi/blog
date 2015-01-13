@@ -4,7 +4,7 @@ title:  英文电子病历
 ---
 
 test a equation:
-    $x^2+y^2=1$
+    $$x^2+y^2=1$$
 
 <h2>{{ page.title }}</h2>
 ##This is a test.
