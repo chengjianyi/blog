@@ -3,5 +3,8 @@ layout: default
 title: First Post
 ___
 
+##{{ page.title }}
 
-##弄了两天总算是完成了，有时间换张主页图片，剩下的慢慢改。
+###弄了两天总算是完成了，有时间换张主页图片，剩下的慢慢改。
+
+{{ page.date | date_to_string }}
