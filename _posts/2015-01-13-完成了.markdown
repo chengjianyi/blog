@@ -1,0 +1,7 @@
+---
+layout: default
+title: First Post
+___
+
+
+##弄了两天总算是完成了，有时间换张主页图片，剩下的慢慢改。
